@@ -1,0 +1,59 @@
+
+
+body{
+    text-align:center;
+    margin:0;
+    padding:0;
+}
+
+nav{
+    background-color:aqua;
+    padding:1.5rem;
+    display:block;
+    box-sizing: border-box;
+}
+
+.container{
+    margin:auto;
+    width:600px;
+    padding:3rem;
+    display:block;
+}
+
+textarea{
+    width:600px;
+    height:100px;
+    margin-bottom: 2rem;
+    padding-top:3rem;
+    text-align:center;
+    font-size: 1rem;
+    border-radius:1rem;
+}
+
+/* textarea{
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    min-height: 20vh;
+    margin-top: 2rem;
+    font-size: large;
+} */
+
+.translatebtn{
+    width:10rem;
+    padding:0.5rem;
+    margin-bottom: 1rem;
+    border-radius:1rem;
+}
+
+.outputtext{
+    padding-top:3rem;
+    border: 1px solid;
+    width:600px;
+    height:20vh;
+    background-color:white;
+    margin-top:1rem;
+    text-align:center;
+    border-radius: 1rem;
+    width:600px;
+}
