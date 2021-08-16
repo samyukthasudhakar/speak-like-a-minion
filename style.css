@@ -11,13 +11,6 @@ body{
     
 }
 
-nav{
-    background-color:aqua;
-    padding:1.5rem;
-    display:block;
-    box-sizing: border-box;
-}
-
 .parent{
     min-height: 100vh;
     display:flex;
@@ -52,19 +45,6 @@ textarea{
     border-radius:0.5rem;
     border:none;
     outline:none;
-}
-
-.outputtext{
-    padding-top:3rem;
-    border: 1px solid;
-    width:600px;
-    height:10vh;
-    background-color:white;
-    color:black;
-    margin-top:1rem;
-    text-align:center;
-    border-radius: 1rem;
-    width:600px;
 }
 
 .footer{
