@@ -31,7 +31,7 @@ textarea{
     width:600px;
     height:10vh;
     margin: 2rem;
-    padding-top:3rem;
+    padding-top:1.5rem;
     text-align:center;
     font-size: 1rem;
     border-radius:1rem;
@@ -61,4 +61,15 @@ textarea{
     width: 1.7rem;
     height: 1.7rem;
     padding: 0.5rem;
+}
+
+@media(max-width:940px){
+    h1{
+        font-size: 21px;
+        font-weight:bolder;
+    }
+    textarea{
+        width:300px;
+        text-align: center;
+    }
 }
